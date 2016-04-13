@@ -38,11 +38,11 @@
 - (KPViewController *)player {
     if (!_player) {
         // Account Params
-        KPPlayerConfig *config = [[KPPlayerConfig alloc] initWithServer:@"http://vodgc.com"
-                                                uiConfID:@"23448994"
-                                               partnerId:@"109"];
+        KPPlayerConfig *config = [[KPPlayerConfig alloc] initWithServer:@"http://kaltura.com"
+                                                               uiConfID:@"34494681"
+                                                              partnerId:@"2113721"];
         playlistIndex = 0;
-        playlist = [NSArray arrayWithObjects: @"0_fms0o85z",@"0_0yazfkud",@"0_o61ax56a",@"0_mxgalfqu",@"0_0137fegb", nil];
+        playlist = [NSArray arrayWithObjects: @"1_07xj69s6",@"1_t7ftad3f",@"1_ca5xzw36",@"1_xo9lr5dz",@"1_y1or1817",@"1_49aai1r2",@"1_6o67ru53",@"1_m22igpgy", nil];
         [config setEntryId: playlist[playlistIndex]];
         [config addConfigKey:@"autoPlay" withValue:@"true"];
         [config addConfigKey:@"controlBarContainer.plugin" withValue:@"false"];
