@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>KalturaPlayerSDK-KALTURAPlayerSDKResources.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>KalturaPlayerSDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-kaltura-player-sdk-native-ios-issue#156.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6704C05659F7942FEAC10B069F8E75E6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A2E6B3D5686F9121633891905ADAC378</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F543BEDE8E92CE019068792A426F19EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
